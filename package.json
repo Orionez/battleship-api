@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "phubaset",
   "license": "MIT",
+  "engines": {
+    "node": "^6.10.0"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "jest --coverage"
